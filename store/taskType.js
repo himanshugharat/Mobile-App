@@ -1,0 +1,12 @@
+export const GET_ALL_TASK = 'GET_ALL_TASK';
+export const ADD_TASK = 'ADD_TASK';
+export const UPDATE_TASK = 'UPDATE_TASK';
+export const GET_LOCAL_DATA = 'GET_LOCAL_DATA';
+export const ADD_LOCAL_DATA = 'ADD_LOCAL_DATA';
+export const REMOVE_LOCAL_DATA = 'REMOVE_LOCAL_DATA';
+export const ATTENDENCE_DATA = 'ATTENDENCE_DATA';
+export const BUTTON_STEPPER = 'BUTTON_STEPPER';
+export const UPDATE_TIME = 'UPDATE_TIME';
+export const UPDATE_PLACE = 'UPDATE_PLACE';
+export const UPDATE_ACTION = 'UPDATE_ACTION';
+export const ADD_TASK_ACTION = 'ADD_TASK_ACTION';
